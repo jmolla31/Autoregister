@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/jmolla31/Autoregister/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jmolla31/Autoregister</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jmolla31/Autoregister</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Version>1.0.2</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Jmollami.Autoregister</PackageId>
+    <PackageReleaseNotes>Updated package metadata</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
