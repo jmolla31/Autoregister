@@ -6,12 +6,14 @@
     <PackageProjectUrl>https://github.com/jmolla31/Autoregister</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jmolla31/Autoregister</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageId>Jmollami.Autoregister</PackageId>
-    <PackageReleaseNotes>Updated package metadata</PackageReleaseNotes>
-    <AssemblyVersion>1.0.3.0</AssemblyVersion>
-    <FileVersion>1.0.3.0</FileVersion>
+    <PackageReleaseNotes>Updated nuget description</PackageReleaseNotes>
+    <AssemblyVersion>1.0.4.0</AssemblyVersion>
+    <FileVersion>1.0.43.0</FileVersion>
+    <Description>Autoregister dependencies on Microsoft.Extensions.DependencyInjection services container using pointer types and configurable lifetimes.
+</Description>
   </PropertyGroup>
 
   <ItemGroup>
