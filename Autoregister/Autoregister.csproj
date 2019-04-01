@@ -6,10 +6,12 @@
     <PackageProjectUrl>https://github.com/jmolla31/Autoregister</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jmolla31/Autoregister</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.2</Version>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.3</Version>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageId>Jmollami.Autoregister</PackageId>
     <PackageReleaseNotes>Updated package metadata</PackageReleaseNotes>
+    <AssemblyVersion>1.0.3.0</AssemblyVersion>
+    <FileVersion>1.0.3.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
