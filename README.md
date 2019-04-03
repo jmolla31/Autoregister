@@ -2,6 +2,8 @@
 
 Autoregister dependencies (usually services and repositories) on Microsoft.Extensions.DependencyInjection services container.
 
+[![Build Status](https://dev.azure.com/javimollamico/Autoregister/_apis/build/status/jmolla31.Autoregister?branchName=master)](https://dev.azure.com/javimollamico/Autoregister/_build/latest?definitionId=1&branchName=master)
+
 ## Usage
 
 ### Package installation:
